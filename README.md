@@ -15,6 +15,8 @@ https://github.com/ccxt-rest/ccxt-rest
 
 Open Source Unified REST API of 100+ Crypto Exchange Sites (18k+ docker pulls) - https://ccxt-rest.io/
 
+
+
 ## Detector Bot
 
 Peregrine
@@ -87,6 +89,72 @@ Cryptocurrency-Trading-Bots-Python-Beginner-Advance
 https://github.com/Roibal/Cryptocurrency-Trading-Bots-Python-Beginner-Advance
 
 Guides and Instructional YouTube Videos by @BlockchainEng Joaquin Roibal focusing on crypto trading strategies such as Triangular Arbitrage, Market Making, etc.
+
+## Exchange Clients
+
+### Binance
+https://github.com/sammchardy/python-binance
+
+### Huobi
+https://github.com/HuobiRDCenter/huobi_Python
+
+https://github.com/huobiapi/Futures-Python-demo
+
+https://github.com/hbdmapi/hbdm_Python
+
+### OKCoin
+https://github.com/gchen/okcoin_client
+
+### gate
+
+https://github.com/gateio/gateapi-python
+
+https://github.com/gateio/rest/tree/master/python
+
+https://github.com/gateio/WebSocket-API/tree/master/python
+
+
+### zb
+
+https://www.zb.com/api
+
+### OKEx
+
+https://github.com/okex/V3-Open-API-SDK
+
+### bitmart
+https://www.bitmart.com/
+
+https://github.com/volkovartem77/bitmart-api-python
+
+https://developer.bitmart.com/v2/en/#introduction
+
+### Bitfinex
+
+https://www.bitfinex.com/
+https://github.com/bitfinexcom/bitfinex-api-py
+
+### BitMEX
+https://github.com/BitMEX/api-connectors
+
+https://www.fmz.com/
+
+https://github.com/chrisacheson/liquidbot
+
+
+### HitBTC
+
+https://github.com/pulkit1991/hitbtcapi
+
+## Exchange Fees
+
+https://www.binance.com/cn/fee/trading
+
+https://www.gate.io/help/question/16563
+
+https://www.hbg.com/zh-cn/fee/
+
+https://www.okex.com/fees.html
 
 
 
