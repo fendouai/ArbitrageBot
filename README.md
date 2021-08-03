@@ -1,5 +1,5 @@
-# ArbitrageBot
- ArbitrageBot
+# 套利机器人
+ArbitrageBot
 
 ## Trading API
 
@@ -64,24 +64,42 @@ https://github.com/bitrinjani/r2
 
 R2 Bitcoin Arbitrager is an automatic arbitrage trading application targeting Bitcoin exchanges.
 
-## 
+
 
 
 ## Trading Bot
-OctoBot
+### OctoBot
 
 Octobot is a powerful fully modular open-source cryptocurrency trading robot.
 
 https://github.com/Drakkar-Software/OctoBot
 
+### Freqtrade
+
+Free, open source crypto trading bot
+
+https://github.com/freqtrade/freqtrade
+
+
 
 
 ## Chinese Bot
-triangular-arbitrage
+### triangular-arbitrage
 
 https://github.com/zlq4863947/triangular-arbitrage
 
 数字货币-三角套利机器人
+
+### Pionex
+
+Free Grid Trading Bot & Arbitrage Bot
+
+[Pionex en-US](https://www.pionex.cc/en-US/sign/ref/aReEu0UL)
+
+[Pionex zh-CN](https://www.pionex.cc/zh-CN/sign/ref/aReEu0UL)
+
+
+
 
 ## Tutorial
 Cryptocurrency-Trading-Bots-Python-Beginner-Advance
@@ -89,6 +107,31 @@ Cryptocurrency-Trading-Bots-Python-Beginner-Advance
 https://github.com/Roibal/Cryptocurrency-Trading-Bots-Python-Beginner-Advance
 
 Guides and Instructional YouTube Videos by @BlockchainEng Joaquin Roibal focusing on crypto trading strategies such as Triangular Arbitrage, Market Making, etc.
+
+## Exchange Websites
+
+### Binance
+[Binance](https://www.binance.com/en/register?ref=23297069)
+
+### OKEx
+[OKEx](https://www.okex.com/join/1915102941)
+
+### Huobi
+[Huobi](https://www.huobi.com/zh-cn/topic/double-reward/?invite_code=fi483)
+
+### gate
+[Gate](https://www.gateio.io/ref/39856)
+
+### MXC
+[MEXC](https://www.mexc.com/register?inviteCode=1B9os)
+
+### Pionex
+Free Grid Trading Bot & Arbitrage Bot
+
+[Pionex en-US](https://www.pionex.cc/en-US/sign/ref/aReEu0UL)
+
+[Pionex zh-CN](https://www.pionex.cc/zh-CN/sign/ref/aReEu0UL)
+
 
 ## Exchange Clients
 
@@ -157,4 +200,5 @@ https://www.hbg.com/zh-cn/fee/
 https://www.okex.com/fees.html
 
 
-
+## Website
+http://arbitragebot.cn/
