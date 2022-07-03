@@ -9,12 +9,48 @@ https://github.com/ccxt/ccxt
 
 A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges
 
+CCXT has arbitrage python script.
+
 ccxt-rest
 
 https://github.com/ccxt-rest/ccxt-rest
 
 Open Source Unified REST API of 100+ Crypto Exchange Sites (18k+ docker pulls) - https://ccxt-rest.io/
 
+
+
+## Arbitrage Bot
+
+### OKX 
+
+Free Grid Trading Bot & Arbitrage Bot
+
+https://www.okx.com/join/1915102941
+
+### Pionex
+
+Free Grid Trading Bot & Arbitrage Bot
+
+[Pionex en-US](https://www.pionex.cc/en-US/sign/ref/aReEu0UL)
+
+Hummingbot
+
+Hummingbot is open source software that helps you build trading bots that run on any exchange or blockchain
+
+https://github.com/hummingbot/hummingbot
+
+Blackbird
+
+https://github.com/butor/blackbird
+
+Blackbird Bitcoin Arbitrage: a long/short market-neutral strategy
+
+
+R2 Bitcoin Arbitrager
+
+https://github.com/bitrinjani/r2
+
+R2 Bitcoin Arbitrager is an automatic arbitrage trading application targeting Bitcoin exchanges.
 
 
 ## Detector Bot
@@ -43,30 +79,6 @@ Detect in-market cryptocurrency arbitrage
 
 https://github.com/bmino/binance-triangle-arbitrage
 
-## Arbitrage Bot
-
-Blackbird
-
-https://github.com/butor/blackbird
-
-Blackbird Bitcoin Arbitrage: a long/short market-neutral strategy
-
-
-Hummingbot: a client for crypto market making
-
-https://github.com/CoinAlpha/hummingbot
-
-Hummingbot: a client for crypto market making
-
-R2 Bitcoin Arbitrager
-
-https://github.com/bitrinjani/r2
-
-R2 Bitcoin Arbitrager is an automatic arbitrage trading application targeting Bitcoin exchanges.
-
-
-
-
 ## Trading Bot
 ### OctoBot
 
@@ -79,8 +91,6 @@ https://github.com/Drakkar-Software/OctoBot
 Free, open source crypto trading bot
 
 https://github.com/freqtrade/freqtrade
-
-
 
 
 ## Chinese Bot
@@ -97,8 +107,6 @@ Free Grid Trading Bot & Arbitrage Bot
 [Pionex en-US](https://www.pionex.cc/en-US/sign/ref/aReEu0UL)
 
 [Pionex zh-CN](https://www.pionex.cc/zh-CN/sign/ref/aReEu0UL)
-
-
 
 
 ## Tutorial
@@ -136,7 +144,12 @@ Free Grid Trading Bot & Arbitrage Bot
 ## Exchange Clients
 
 ### Binance
+
 https://github.com/sammchardy/python-binance
+
+Future SDK
+
+https://github.com/binance/binance-futures-connector-python
 
 ### Huobi
 https://github.com/HuobiRDCenter/huobi_Python
@@ -147,6 +160,16 @@ https://github.com/hbdmapi/hbdm_Python
 
 ### OKCoin
 https://github.com/gchen/okcoin_client
+
+### OKX V5
+
+Open-API-SDK-V5
+
+https://github.com/jane-cloud/Open-API-SDK-V5
+
+binance-futures-connector-python
+
+https://github.com/binance/binance-futures-connector-python
 
 ### gate
 
